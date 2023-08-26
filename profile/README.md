@@ -1,4 +1,6 @@
-## About REMCU Project
+## About REMCU Project 
+
+more info https://remotemcu.com/
 
 The **REMCU** project is a state of the art approach that will transform embedded development in the same way that microcontrollers have transformed the electronics industry. This solution combines the fun of embedded programming with the power of high level languages, as well as all of the PC effective tools like Jupyter Notebook, Matlab, etc.
 
